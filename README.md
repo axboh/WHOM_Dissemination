@@ -21,7 +21,11 @@ Each sub-folder holds data relevant for one of the four dissemination measures u
    * COHA_Topics_per_File.csv: For each corpus document, the associated probability distribution over the 25 topics.
 
 References:
+
 Altmann, Eduardo G., Janet B. Pierrehumbert & Adilson E. Motter. 2011. Niche as a determinant of word fate in online groups. *PLOS ONE*. Public Library of Science 6(5). e19009. https://doi.org/10.1371/journal.pone.0019009.
+
 Altmann, Eduardo G., Zakary L. Whichard & Adilson E. Motter. 2013. Identifying trends in word frequency dynamics. *Journal of Statistical Physics 151(1–2)*. 277–288. https://doi.org/10.1007/s10955-013-0699-7.
+
 Stewart, Ian & Jacob Eisenstein. 2018. Making “fetch” happen: The influence of social and linguistic context on nonstandard word growth and decline. In *Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing*, 4360–4370. Brussels, Belgium: Association for Computational Linguistics. https://doi.org/10.18653/v1/D18-1467.
+
 Thompson, Bruce. 2004. *Exploratory and Confirmatory Factor Analysis: Understanding Concepts and Applications*. Washington, DC: American Psychological Association.
